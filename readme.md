@@ -8,7 +8,7 @@ You'll need to follow the instructions on the code comments. You're gonna need t
 
 ## Credits
   
-**u/AdventurersClub**
+**u/AdventurersClub**  
 https://www.reddit.com/r/esp8266/comments/7yvphm/simple_text_box_string_to_control_a_relay/  
   
 **steveOhh**  
