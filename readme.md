@@ -4,7 +4,7 @@ This a simple arduino project that aims to use the nodemcu to send push notifica
 
 ## Are there any tricks?
 
-You'll need to follow the instructions on the code comments. You're gonna need the fingerprint from the Pushbullet API website and an access token that can be generated using your account's control panel.
+You'll need to follow the instructions on the code comments. You're gonna need the fingerprint from the Pushbullet API website and an access token that can be generated using your pushbullet account's control panel.
 
 ## Credits
   
